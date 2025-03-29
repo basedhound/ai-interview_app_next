@@ -4,15 +4,8 @@
       <img src="https://github.com/user-attachments/assets/1c0131c7-9f2d-4e3b-b47c-9679e76d8f9a" alt="Project Banner">
     </a>
   <br />
-  
-  <div>
-    <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
-    <img src="https://img.shields.io/badge/-Vapi-white?style=for-the-badge&color=5dfeca" alt="vapi" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logoColor=white&logo=firebase&color=DD2C00" alt="firebase" />
-  </div>
 
-  <h3 align="center">Prepwise: A job interview preparation platform powered by Vapi AI Voice agents</h3>
+  <h3 align="center">Job interview preparation platform w/ Vapi AI Voice</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -26,17 +19,25 @@
 
 ## <a name="introduction">✨ Introduction</a>
 
-Built with Next.js for the user interface and backend logic, Firebase for authentication and data storage, styled with TailwindCSS and using Vapi's voice agents, Prepwise is a website project designed to help you learn integrating AI models with your apps. The platform offers a sleek and modern experience for job interview preparation.
+**`[EN]`** Built with Next.js for the user interface and backend logic, Firebase for authentication and data storage, styled with TailwindCSS and using Vapi's voice agents, Prepwise is a website project designed to help you learn integrating AI models with your apps. The platform offers a sleek and modern experience for job interview preparation.
+
+**`[FR]`** Développé avec Next.js pour l'interface utilisateur et la logique backend, Firebase pour l'authentification et le stockage des données, et stylisé avec TailwindCSS, Prepwise utilise les agents vocaux de Vapi pour offrir une expérience moderne et immersive de préparation aux entretiens d'embauche.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
-- Firebase
-- Tailwind CSS
-- Vapi AI
-- shadcn/ui
-- Google Gemeni
-- Zod
+- [**Next.js**](https://nextjs.org/docs) is a React framework for building server-side rendered or statically exported applications. It enhances React by handling server-side rendering, automatic code splitting, and static site generation, improving performance, SEO, and user experience.
+
+- [**Firebase**](https://firebase.google.com/docs) is a platform for building and managing apps, offering tools like authentication, real-time databases, hosting, and more. It provides a backend-as-a-service solution that simplifies app development and helps developers focus on building features.
+
+- [**Tailwind CSS**](https://tailwindcss.com/docs) is a utility-first CSS framework for building custom designs without writing custom CSS. It allows for faster styling by using pre-defined classes, promoting consistency and scalability in the design process.
+
+- [**Vapi AI**](https://vapi.com/) provides AI-powered voice agents that can be integrated into applications for natural language processing and interaction. It enables developers to create intelligent, voice-enabled experiences with ease.
+
+- [**shadcn/ui**](https://github.com/shadcn/ui) is a library of accessible and customizable UI components designed to help developers create consistent, user-friendly interfaces. It focuses on simplicity, flexibility, and ease of use for modern web applications.
+
+- [**Google Gemini**](https://blog.google/technology/ai/introducing-google-gemini/) is an advanced AI model by Google designed to enhance natural language understanding and AI capabilities. It helps improve conversational AI, search, and other NLP-driven tasks across applications.
+
+- [**Zod**](https://github.com/colinhacks/zod) is a TypeScript-first schema validation library that provides a simple and expressive way to define and validate data structures. Zod ensures data integrity by catching errors early during development.
 
 ## <a name="features">📝 Features</a>
 
