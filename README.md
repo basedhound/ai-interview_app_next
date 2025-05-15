@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://ainterview-fv.vercel.app" target="_blank">
+    <a href="https://prepwise-fv.vercel.app" target="_blank">
       <img src="public/readme.png" alt="Project Banner">
     </a>
   <br />
